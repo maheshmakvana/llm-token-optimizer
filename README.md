@@ -308,6 +308,12 @@ Python 3.8+ · No external dependencies (stdlib + pydantic; tiktoken optional)
 
 ---
 
+## Changelog
+
+### v1.0.0 (2026-04-10)
+- Added Changelog section to README for release traceability
+- Initial release: token cost estimation, prompt compression, budget enforcement, model routing
+
 ## License
 
 MIT
